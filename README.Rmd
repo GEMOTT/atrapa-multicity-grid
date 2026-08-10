@@ -4,8 +4,6 @@ format: gfm
 output-file: README.md
 ---
 
-# ATRAPA Multicity Grid
-
 ## Overview
 
 This repository develops a harmonised spatial grid for multicity analyses within the **ATRAPA (The Active Travel Backlash Paradox)** project.

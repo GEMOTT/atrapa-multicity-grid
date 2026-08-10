@@ -1,8 +1,6 @@
 # ATRAPA Multicity Grid
 
 
-# ATRAPA Multicity Grid
-
 ## Overview
 
 This repository develops a harmonised spatial grid for multicity
