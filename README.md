@@ -4,15 +4,11 @@
 ## Overview
 
 This repository prepares a harmonised **100 × 100 m population grid**
-for multicity analyses within the **ATRAPA (The Active Travel Backlash
-Paradox)** project.
+for multicity analyses within the **ATRAPA** project.
 
 The grid is derived from the **JRC-ESTAT Census Population Grid 2021**,
 developed by the European Commission Joint Research Centre (JRC) and
-Eurostat. The JRC-ESTAT product provides population estimates at 100 m
-resolution across Europe using a harmonised methodology, allowing the
-same population surface, reference year and spatial resolution to be
-used consistently across all ATRAPA study cities.
+Eurostat.
 
 The harmonised grid provides a common spatial backbone for deriving and
 integrating:
