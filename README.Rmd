@@ -1,21 +1,19 @@
----
-title: "ATRAPA Multicity Grid"
-format: gfm
-output-file: README.md
----
-
 ## Overview
 
-This repository develops a harmonised spatial grid for multicity analyses within the **ATRAPA (The Active Travel Backlash Paradox)** project.
+This repository prepares a harmonised **100 × 100 m spatial grid** for multicity analyses within the **ATRAPA (The Active Travel Backlash Paradox)** project.
 
-The grid provides a common spatial framework for:
+The grid is based on the **JRC-ESTAT Census Population Grid 2021**, providing a common population surface with the same reference year, spatial resolution and methodology across all study cities.
+
+The harmonised grid provides the spatial backbone for deriving and integrating:
 
 - population density
 - urban centrality
 - cycling infrastructure change
-- density × centrality stratification
+- density × centrality strata
 
-It supports both **multicity OSM validation** and the development of **iBESTI**.
+It supports the **multicity validation of OpenStreetMap cycling infrastructure change** and the subsequent development of **iBESTI**.
+
+As a diagnostic assessment of the JRC-ESTAT population surface, the 100 m population estimates are also compared with official 2021 national 100 m population grids for Utrecht and Ljubljana.
 
 ## Study cities
 
