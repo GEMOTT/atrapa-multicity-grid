@@ -1,3 +1,9 @@
+---
+title: "ATRAPA Multicity Grid"
+format: gfm
+output-file: README.md
+---
+
 ## Overview
 
 This repository prepares a harmonised **100 × 100 m population grid** for multicity analyses within the **ATRAPA (The Active Travel Backlash Paradox)** project.
